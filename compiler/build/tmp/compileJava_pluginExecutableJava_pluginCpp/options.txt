@@ -1,0 +1,9 @@
+-x
+c++
+-std=c++11
+-c
+-I
+/Users/nivedhithav/open_source/grpc/grpc-java/compiler/src/java_plugin/headers
+/Users/nivedhithav/open_source/grpc/grpc-java/compiler/src/java_plugin/cpp/java_plugin.cpp
+-o
+/Users/nivedhithav/open_source/grpc/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/7lb7ppqpsknwfhdutxypy3le0/java_plugin.o

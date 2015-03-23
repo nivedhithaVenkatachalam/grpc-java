@@ -1,0 +1,7 @@
+-o
+/Users/nivedhithav/open_source/grpc/grpc-java/compiler/build/binaries/java_pluginExecutable/java_plugin
+/Users/nivedhithav/open_source/grpc/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/5439j1cwh1dvj7v9gv7hp7oj0/java_generator.o
+/Users/nivedhithav/open_source/grpc/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/7lb7ppqpsknwfhdutxypy3le0/java_plugin.o
+/Users/nivedhithav/open_source/grpc/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/xbn2bg7n8slt3rmz93xpv40x/java_generator.o
+-lprotoc
+-lprotobuf
